@@ -5,10 +5,10 @@
 
 ////	General Database Options
 // Can be better overridden with a settings.custom.php file.
-$settings['db_host']             = 'mysql-scap2p-scap2p.d.aivencloud.com:16303';      /* ip or hostname to mysql server */
-$settings['db_user']             = 'avnadmin';      /* username used to connect to mysql */
-$settings['db_pass']             = 'AVNS_KeRzYNOpA8OzqNoEnS_';      /* password used to connect to mysql */
-$settings['db_name']             = 'defaultdb';      /* name of the Phoenix database */
+$settings['db_host']             = 'bbveduacjmolfpyp71ck-mysql.services.clever-cloud.com';      /* ip or hostname to mysql server */
+$settings['db_user']             = 'udgl8b9gb1xyenh0';      /* username used to connect to mysql */
+$settings['db_pass']             = 'V0WZYQd6tURNizaaWbl5';      /* password used to connect to mysql */
+$settings['db_name']             = 'bbveduacjmolfpyp71ck';      /* name of the Phoenix database */
 $settings['db_reset']            = false;            /* allow database to be reset in admin */
 
 ////	Advanced Database Options

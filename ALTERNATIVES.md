@@ -1,16 +1,13 @@
 ### Phoenix (elementary OS)
-2020-04-02 (v3.1.5)  
+2016-04-14 (v3.1.1)  
 A modern fork of PeerTracker, a lightweight PHP/SQL BitTorrent Tracker.
 
 ---
 
-### XBT
-Updated June 2022
-https://github.com/OlafvdSpek/xbt
-
-### XBTIT [UNSECURE] (linuxtracker.org)
-2020-10-03 (v3.1)  
-https://github.com/btiteam/xbtit-3.1
+### XBTIT (linuxtracker.org)
+2017-01-11 (v2.5.4)  
+http://www.btiteam.org/  
+https://github.com/btiteam/xbtit
 
 ### TorrentFlux B4RT [ABANDONED]
 2014-06-09  
@@ -30,7 +27,7 @@ http://sourceforge.net/projects/phpmybittorrent/
 Developed 2015-09-10  
 https://github.com/epsylon3/torrentflux
 
-### RivetTracker [UNSECURE / ABANDONED] (previously Linux Mint @ https://torrents.linuxmint.com/)
+### RivetTracker [ABANDONED] (previously Linux Mint @ https://torrents.linuxmint.com/)
 2010-09-22 (1.03 with "Known Security Issues")  
 http://www.rivetcode.com/ (mysql deprecated)  
 http://sourceforge.net/projects/rivettracker/?source=directory  
